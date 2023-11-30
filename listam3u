@@ -42,3 +42,18 @@ https://stream-03.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-V1ieymnjMKArjLFrF
 
 #EXTINF: -1 group-title="Costa Rica", Canal VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist_w770523355.m3u8
+
+#EXTINF: -1 group-title="Costa Rica", Canal 1
+https://video20.klm99.com:3993/hybrid/play.m3u8
+
+#EXTINF: -1 group-title="Costa Rica", Canal Meganet
+https://250weu.bozztv.com/ssh101/ssh101/meganettv/chunks.m3u8?nimblesessionid=27565467
+
+#EXTINF: -1 group-title="Costa Rica", Canal Opa
+https://cageu.bozztv.com/ssh101/ssh101/opacanal38/chunks.m3u8?nimblesessionid=27566152
+
+#EXTINF: -1 group-title="Costa Rica", Canal TicaVision
+https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/chunklist_w1657788583.m3u8
+
+#EXTINF: -1 group-title="Costa Rica", Canal SoyPlanchaTv
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/chunklist_w939558316.m3u8
