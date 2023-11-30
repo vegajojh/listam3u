@@ -57,3 +57,12 @@ https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/chunklist_w1657788583.m3u8
 
 #EXTINF: -1 group-title="Costa Rica", Canal SoyPlanchaTv
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/chunklist_w939558316.m3u8
+
+#EXTINF: -1 group-title="Costa Rica", Canal TV+
+https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/chunklist_w1658251518.m3u8
+
+#EXTINF: -1 group-title="Costa Rica", Canal ZurquiTV
+https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
+
+#EXTINF: -1 group-title="Costa Rica", Canal IQ
+https://250weu.bozztv.com/ssh101/ssh101/iqchannel/chunks.m3u8?nimblesessionid=27571043
