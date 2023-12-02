@@ -66,3 +66,17 @@ https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 
 #EXTINF: -1 group-title="Costa Rica", Canal IQ
 https://250weu.bozztv.com/ssh101/ssh101/iqchannel/chunks.m3u8?nimblesessionid=27571043
+
+#EXTINF: -1 group-title="Noticias", Canal DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
+#EXTINF: -1 group-title="Noticias", Canal RT
+https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
+
+#EXTINF: -1 group-title="Chile", Canal Mega
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8?nimblesessionid=701052406
+
+
+
+
+
