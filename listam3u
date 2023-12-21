@@ -2,7 +2,7 @@
 
 
 #EXTINF: -1 group-title="Costa Rica", Canal 6
-https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/chunks.m3u8
+https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/Canal6CR/Canal6CR1/chunks.m3u8
 
 #EXTINF: -1 group-title="Costa Rica", Canal 4
 https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/Canal4CR/Canal4CR2/chunks.m3u8
@@ -14,7 +14,7 @@ https://d2t46xrpai3it5.cloudfront.net/Repretel11/b3e2798525101c45f84a48573676853
 https://d2t46xrpai3it5.cloudfront.net/Canal2CR/1ccdc8545fd05b83e9c57826d0de1069.sdp/Canal2CR/Canal2CR1/chunks.m3u8
 
 #EXTINF: -1 group-title="Costa Rica", Canal 8 Multimedios
-https://us-b4-p-e-mg17.cdn.mdstrm.com/live-stream/5a7b1e63a8da282c34d65445/publish/media_2000.m3u8?aid=579bd29dc99290cf08362c3b&uid=NSLjYU5p01gO919boOpiDoKQHRnmuRjk&sid=BXEwJSdR5c5yhfHspUSJTd1QwbwWusjp&pid=CPsX4G4ugSztcl4BRRfcFQPE8veeEpoC&ref=https%3A%2F%2Fwww.telediario.cr%2F&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-mg17.cdn.mdstrm.com&ote=1701410483224&ot=7Jg6CAHNAx7Qb19fiUwjUA&proto=https&pz=us
+https://us-b4-p-e-cg11.cdn.mdstrm.com/live-stream/5a7b1e63a8da282c34d65445/publish/media_2000.m3u8?aid=579bd29dc99290cf08362c3b&uid=NSLjYU5p01gO919boOpiDoKQHRnmuRjk&sid=eCuSKORA24I7OlIqeu943OtPcyax109i&pid=AUzlrQ6rpz8xsJPNw2G00Pe3xUE49sXY&ref=https%3A%2F%2Fwww.telediario.cr%2F&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-cg11.cdn.mdstrm.com&ote=1703229688020&ot=4woMBTPo-xDgn5DxW3JGew&proto=https&pz=us
 
 #EXTINF: -1 group-title="Costa Rica", Canal Colosal TV
 https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/chunklist_w1993628767.m3u8
@@ -38,10 +38,10 @@ https://stmv.streamingvip.click/sanvitotv/sanvitotv/chunklist_w491346895.m3u8
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
 
 #EXTINF: -1 group-title="Panama", Canal Telemetro
-https://stream-03.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-V1ieymnjMKArjLFrF2a4fMbIqy1jkjvBFnXb55ug4pM)/cloud/3/x8nlwwo/s/live-2.m3u8#cell=lnyc
+https://stream-02.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-RM56-k1Cw12OM2EVajK9qnFL8dbigegRurT3yvFnXO9)/cloud/3/x8nlwwo/s/live-2.m3u8#cell=lnyc
 
 #EXTINF: -1 group-title="Costa Rica", Canal VM Latino
-https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist_w770523355.m3u8
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist_w2097093465.m3u8
 
 #EXTINF: -1 group-title="Costa Rica", Canal 1
 https://video20.klm99.com:3993/hybrid/play.m3u8
@@ -76,7 +76,17 @@ https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 #EXTINF: -1 group-title="Chile", Canal Mega
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8?nimblesessionid=701052406
 
+#EXTINF: -1 group-title="El Salvador", Canal 25
+https://rpn3.bozztv.com/ssh101/ssh101/OrbitaTV25/chunks.m3u8?nimblesessionid=47655756
 
+#EXTINF: -1 group-title="El Salvador", Canal 11
+https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
+
+#EXTINF: -1 group-title="Honduras", Canal 6
+https://envivo.canal6.com.hn/hls/0/stream.m3u8
+
+#EXTINF: -1 group-title="Honduras", Canal 8
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CuYF1hZdM97OUIPkcF3lncqdBFA0zgLMc_f_Q8v4Jhu3YecXBv1xRKY8HVS8CPhWYeH1xHZ3ksnwDbAE9YlJoOLEmWHVcEHeRw3jhbt5aoBAu0Lgy3CatOz2U5Ts8gYImBjRqOyZwSEXfpX_Qlaiani2stykA26216UeivKjPH4PC2V7rqzDN2Z4SdZbd2z_hHCvFakynhRkXzY0aomPugLRRLHPOu73KrGz6VMgQien4wzYgMRP8FU_7UupOTUmwkfVkxie3l_jDED5wy0C6NW9rnHN-dpkhWVrq_6TBAOOa4Uqt85AG8I2mjnUKu7ablcmxtU1oljLPqfxwwCqgU0U7Tw5Qyr7eVX2DNLQnqwQ_KzP54n_IRnAwVq7iKJS7qX_nCyJ_jDSTs981Ivk__CCEN1uQyDkzp1msc4bD4Zjogcu6oPsY0hutYRmH_jsRu5xCciEBiT8_ipWV9vLoaZ_6EjPNEe42Wma-zx1dP0WFb_K3HzCe01QnRRIyaTtQpNhN7I4I6GSZQkbDHt8s0lEGnaIo-WL2S3yExhod0hEQCFOYVA131N93nMpDEN1rZWMzpBzA3USVyPy75swsgI8rzSThH__b62hDhon4dPRFt3tgvkr431nhk653QJ0tQ_U3v5VbJoN9flSsuUUllf3yzKwSOOiHC9RiXkVYyj7Gvs-FGWNjug7r3f48f3czn-L0k8k3bDnXkzV_DbeSbjV3HZqrihoxF-qq4ILDE4dzRTIN5B_yWy2MmcHR0sv-Eat4nJ-NH4ZmpkwgUklP91Qbu5TPyn9nLLPjFllg9IM--zkGXsHT1bjk9ieUB_fXxwP2rsDyNjk6Hpi_sKhMhodnaTFJfFH-Aw03O4vbxkpVxibwajUEuSvmvgFGQu04ueJblrJcE1sJWpNL1p6Drr1YSaE7x32md2g-1CBUqS2HmPwl1pPHW45irkeYFsgEF3H6CvJTfl71qsBhVJxsoeiYP9H5l5qohoMN9rrdLAmUT8IK2sPIAEqCXVzLWVhc3QtMTDaBg.m3u8
 
 
 
